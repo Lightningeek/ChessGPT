@@ -2,7 +2,7 @@
 
 Trying to make a chess bot
 
-link: chess.supergeogrpahyidol.rocks
+link: [chess.supergeographyidol.rocks](chess.supergeogrpahyidol.rocks)
 
 ### Check out Lightningeek/riceclicker
 it's cookie clicker, but modded to make it more asian!
