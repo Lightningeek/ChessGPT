@@ -4,10 +4,10 @@ Trying to make a chess bot
 
 link: chess.supergeogrpahyidol.rocks
 
-### check out Lightningeek/riceclicker
+### Check out Lightningeek/riceclicker
 it's cookie clicker, but modded to make it more asian!
 
-## roadmap
+## Roadmap
 
 - make the actual ui
 - make functioning chess pieces
