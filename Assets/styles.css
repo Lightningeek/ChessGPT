@@ -1,0 +1,9 @@
+ body {
+                background-color: black;
+   font-family: "PT Sans", Calibri, Tahoma, sans-serif;
+            }
+header {
+  margin-bottom: 4rem;
+  padding: 2rem 0;
+  color: hsl(0, 0%, 100%);
+}
